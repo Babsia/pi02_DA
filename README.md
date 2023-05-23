@@ -9,7 +9,7 @@
 - [Sobre el repositorio <a name="about_repo"></a>](#sobre-el-repositorio-)
 - [Datos](#datos)
 - [Enviroment](#enviroment)
-- [Licencia<a name="license"></a>](#licencia)
+
 
 # El proyecto <a name="proyecto"></a>
 Este proyecto está enfocado en el perfil de analista de datos. El objetivo fue desarrollar un análisis sobre los accidentes de aviones producidos desde 1908. Algunos de los requisitos fueron:
